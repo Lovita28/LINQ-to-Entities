@@ -1,0 +1,10 @@
+c:\users\lovita\documents\visual studio 2015\Projects\Adventurelinq\Adventurelinq\bin\Debug\Adventurelinq.exe.config
+c:\users\lovita\documents\visual studio 2015\Projects\Adventurelinq\Adventurelinq\bin\Debug\Adventurelinq.exe
+c:\users\lovita\documents\visual studio 2015\Projects\Adventurelinq\Adventurelinq\bin\Debug\Adventurelinq.pdb
+c:\users\lovita\documents\visual studio 2015\Projects\Adventurelinq\Adventurelinq\bin\Debug\EntityFramework.dll
+c:\users\lovita\documents\visual studio 2015\Projects\Adventurelinq\Adventurelinq\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\lovita\documents\visual studio 2015\Projects\Adventurelinq\Adventurelinq\bin\Debug\EntityFramework.xml
+c:\users\lovita\documents\visual studio 2015\Projects\Adventurelinq\Adventurelinq\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\lovita\documents\visual studio 2015\Projects\Adventurelinq\Adventurelinq\obj\Debug\Adventurelinq.csprojResolveAssemblyReference.cache
+c:\users\lovita\documents\visual studio 2015\Projects\Adventurelinq\Adventurelinq\obj\Debug\Adventurelinq.exe
+c:\users\lovita\documents\visual studio 2015\Projects\Adventurelinq\Adventurelinq\obj\Debug\Adventurelinq.pdb
